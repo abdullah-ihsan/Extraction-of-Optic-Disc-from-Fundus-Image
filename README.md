@@ -19,5 +19,7 @@ Fundus images are digital images of human retinal which are used to diagnose dif
 
 4. The image is thresholded to extract the brighter regions from the background. The centre is then determinied using component labelling and highlighted on the orignal image.
 ![image](https://github.com/abdullah-ihsan/Extraction-of-Optic-Disc-from-Fundus-Image/assets/65601738/81dd371a-5991-4264-a0df-3d61764bcb2e)
-![image](https://github.com/abdullah-ihsan/Extraction-of-Optic-Disc-from-Fundus-Image/assets/65601738/c11293fd-349d-4ed2-aac5-d59870a1b93c)
  
+## Results
+![image](https://github.com/abdullah-ihsan/Extraction-of-Optic-Disc-from-Fundus-Image/assets/65601738/c11293fd-349d-4ed2-aac5-d59870a1b93c)
+There is very small difference between the calculated distances and the actual distances of the images. An average error of about **100 pixels** was recorded. The image size varied from 800x800 px to 3000x3000 px, hence the high pixel count of the error.
