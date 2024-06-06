@@ -1,6 +1,6 @@
 # Retinal Image Segmentation and Objects Analysis
 ## Overview
-Fundus images are digital images of human retinal which are used to diagnose different retinal diseases using image processing techniques. 
+Fundus images are digital images of human retinal which are used to diagnose different retinal diseases. This project implements image morphological techniques to extract the optic disc from the fundus image using image processing techniques. 
 
 ## Tools and dependencies
 - Python 3.x
